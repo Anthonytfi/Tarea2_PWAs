@@ -1,0 +1,30 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Configuraciones del editor (Visual Studio Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Archivos del sistema
+.env
+.env.local
+.env.*.local
+
+# Archivos de producción generados por http-server (si los llegaras a usar)
+/dist/
+/build/
+
+# Otros
+*.swp
+*.swo
+*.bak
